@@ -22,7 +22,7 @@ export default function HomePage() {
   return (
     <>
       <Head>
-        <title>SJMC Landing Page</title>
+        <title>SUESMC Landing Page</title>
       </Head>
       <Layout className={screens.lg ? "lp-layout desktop" : "lp-layout"}>
         {!screens.lg && /* For mobile devices */
