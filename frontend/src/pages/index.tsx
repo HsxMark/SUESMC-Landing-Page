@@ -55,7 +55,7 @@ export default function HomePage() {
           shape="square"
           style={screens.lg ? { bottom: 60, right: 30 } : { bottom: 48, right: 20 }}
       >
-          {screens.lg && <Link target="_blank" href={'https://github.com/UNIkeEN/SJMC-Landing-Page'}><FloatButton 
+          {screens.lg && <Link target="_blank" href={'https://github.com/HsxMark/SUESMC-Landing-Page.git'}><FloatButton 
               icon={<GithubOutlined />}
           /></Link>}
           <FloatButton
